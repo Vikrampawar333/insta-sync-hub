@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Instagram Social Feed</title>
+  
+  <!-- Font -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+  <!-- Widget Stylesheet -->
+  <link rel="stylesheet" href="/widget/insta-feed.css?v=7.0">
+
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      padding: 0;
+      background-color: #fafafa;
+      color: #262626;
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+    }
+
+    /* Clean Top Header */
+    .site-header {
+      background: #ffffff;
+      border-bottom: 1px solid #dbdbdb;
+      padding: 0.9rem 2rem;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+    }
+
+    .brand-title {
+      font-weight: 700;
+      font-size: 1.15rem;
+      color: #262626;
+      display: flex;
+      align-items: center;
+      gap: 0.6rem;
+    }
+
+    .brand-logo {
+      width: 28px;
+      height: 28px;
+      border-radius: 8px;
+      background: linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: #fff;
+    }
+
+    /* Feed Main Area */
+    .main-content {
+      flex: 1;
+      width: 100%;
+      max-width: 1240px;
+      margin: 0 auto;
+      padding: 2rem 1rem 4rem;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Clean Top Bar -->
+  <header class="site-header">
+    <div class="brand-title">
+      <div class="brand-logo">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+          <rect x="2" y="2" width="20" height="20" rx="5" ry="5"></rect>
+          <path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"></path>
+          <line x1="17.5" y1="6.5" x2="17.51" y2="6.5"></line>
+        </svg>
+      </div>
+      <span>Social Feed</span>
+    </div>
+  </header>
+
+  <!-- Feed Mounting Point -->
+  <main class="main-content">
+    <div id="insta-social-hub"></div>
+  </main>
+
+  <!-- Widget Script -->
+  <script src="/widget/insta-feed.js?v=7.0"></script>
+  <script>
+    document.addEventListener('DOMContentLoaded', () => {
+      // Initialize Instagram feed widget
+      InstaHub.init({
+        container: '#insta-social-hub',
+        apiUrl: window.location.origin
+      });
+    });
+  </script>
+</body>
+</html>

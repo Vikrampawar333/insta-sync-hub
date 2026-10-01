@@ -1,0 +1,1064 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R 5 0 R 7 0 R] /Count 3 >>
+endobj
+3 0 obj
+<<
+                /Type /Page
+                /Parent 2 0 R
+                /MediaBox [0 0 595.28 841.89]
+                /Contents 4 0 R
+                /Resources <<
+                    /Font <<
+                        /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+                        /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+                        /F3 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding >>
+                        /F4 << /Type /Font /Subtype /Type1 /BaseFont /Courier /Encoding /WinAnsiEncoding >>
+                    >>
+                >>
+            >>
+endobj
+4 0 obj
+<< /Length 8485 >>
+stream
+
+        0.6 0.6 0.6 RG
+        0.5 w
+        50 806.89 m
+        545.28 806.89 l
+        S
+        BT
+        /F1 8 Tf
+        0.5 0.5 0.5 rg
+        50 811.89 Td
+        (InstaSync Hub - Complete Theory & Architecture Guide) Tj
+        ET
+        
+        BT
+        /F2 18 Tf
+        0.06 0.09 0.16 rg
+        50 773.89 Td
+        (InstaSync Hub - Complete Theory & Architecture Guide) Tj
+        ET
+        
+        BT
+        /F3 11 Tf
+        0.4 0.45 0.55 rg
+        50 754.89 Td
+        (100% Free Lifetime | Real-Time Instagram Live Feed Engine | Complete SOP Manual) Tj
+        ET
+        
+        0.94 0.98 0.95 rg
+        50 678.89 495.28 67 re
+        f
+        0.1 0.6 0.3 RG
+        2 w
+        50 745.89 m
+        50 678.89 l
+        S
+        BT
+        /F2 9.5 Tf
+        0.08 0.45 0.2 rg
+        60 731.89 Td
+        (KEY PRODUCT VALUE) Tj
+        ET
+        
+            BT
+            /F1 9 Tf
+            0.15 0.3 0.2 rg
+            60 717.89 Td
+            (This system connects directly to Meta Graph API, stores media permanently on) Tj
+            ET
+            
+            BT
+            /F1 9 Tf
+            0.15 0.3 0.2 rg
+            60 704.89 Td
+            (local server disk, and automatically updates any client website without) Tj
+            ET
+            
+            BT
+            /F1 9 Tf
+            0.15 0.3 0.2 rg
+            60 691.89 Td
+            (monthly fees or page refresh.) Tj
+            ET
+            
+        0.9 0.2 0.4 RG
+        2 w
+        50 638.89 m
+        545.28 638.89 l
+        S
+        BT
+        /F2 13 Tf
+        0.06 0.09 0.16 rg
+        50 644.89 Td
+        (CHAPTER 1: PROJECT KA INTRODUCTION & BACKGROUND) Tj
+        ET
+        
+        BT
+        /F2 11 Tf
+        0.12 0.16 0.23 rg
+        50 611.89 Td
+        (1.1 Market Me Problem Kya Thi?) Tj
+        ET
+        
+            BT
+            /F1 9.5 Tf
+            0.15 0.2 0.28 rg
+            50 594.89 Td
+            (Aaj har business \(jaise Gym, Restaurant, Jeweller, Doctor, Fashion Boutique\)) Tj
+            ET
+            
+            BT
+            /F1 9.5 Tf
+            0.15 0.2 0.28 rg
+            50 581.89 Td
+            (chahta hai ki unke Instagram ke naye photos aur video reels unki official website) Tj
+            ET
+            
+            BT
+            /F1 9.5 Tf
+            0.15 0.2 0.28 rg
+            50 568.89 Td
+            (par automatic live dikhein.) Tj
+            ET
+            
+            BT
+            /F1 9.5 Tf
+            0.15 0.2 0.28 rg
+            50 549.89 Td
+            (Lekin market ke third-party plugins \(jaise Elfsight, Tagembed, Smash Balloon\) har) Tj
+            ET
+            
+            BT
+            /F1 9.5 Tf
+            0.15 0.2 0.28 rg
+            50 536.89 Td
+            (website ke liye Rs.1,000 se Rs.3,500 \($15 to $50\) har mahine charge karte hain.) Tj
+            ET
+            
+            BT
+            /F1 9.5 Tf
+            0.15 0.2 0.28 rg
+            50 523.89 Td
+            (Agar agency ke paas 10 clients hain, toh saal ka Rs.1,50,000 se Rs.3,00,000 sirf) Tj
+            ET
+            
+            BT
+            /F1 9.5 Tf
+            0.15 0.2 0.28 rg
+            50 510.89 Td
+            (ek widget ke liye kharch hota hai.) Tj
+            ET
+            
+        BT
+        /F2 11 Tf
+        0.12 0.16 0.23 rg
+        50 484.89 Td
+        (1.2 Hamara Solution) Tj
+        ET
+        
+            BT
+            /F1 9.5 Tf
+            0.15 0.2 0.28 rg
+            50 467.89 Td
+            (Humne ek aisa in-house engine banaya hai jo directly official Meta Graph API se) Tj
+            ET
+            
+            BT
+            /F1 9.5 Tf
+            0.15 0.2 0.28 rg
+            50 454.89 Td
+            (connect karta hai. Yeh photos aur reels ko apne server par download karke save kar) Tj
+            ET
+            
+            BT
+            /F1 9.5 Tf
+            0.15 0.2 0.28 rg
+            50 441.89 Td
+            (leta hai aur kisi bhi website par bina kisi monthly charge ke lifetime free feed) Tj
+            ET
+            
+            BT
+            /F1 9.5 Tf
+            0.15 0.2 0.28 rg
+            50 428.89 Td
+            (dikhata hai.) Tj
+            ET
+            
+        0.9 0.2 0.4 RG
+        2 w
+        50 389.89 m
+        545.28 389.89 l
+        S
+        BT
+        /F2 13 Tf
+        0.06 0.09 0.16 rg
+        50 395.89 Td
+        (CHAPTER 2: META GRAPH API KI POORI THEORY) Tj
+        ET
+        
+        BT
+        /F2 11 Tf
+        0.12 0.16 0.23 rg
+        50 362.89 Td
+        (2.1 API \(Application Programming Interface\)) Tj
+        ET
+        
+            BT
+            /F1 9.5 Tf
+            0.15 0.2 0.28 rg
+            50 345.89 Td
+            (API ek aisi digital khidki hoti hai jiske zariye do alag softwares aapas me baat) Tj
+            ET
+            
+            BT
+            /F1 9.5 Tf
+            0.15 0.2 0.28 rg
+            50 332.89 Td
+            (karte hain. Hamara Python backend Instagram ke server se data mangwata hai aur) Tj
+            ET
+            
+            BT
+            /F1 9.5 Tf
+            0.15 0.2 0.28 rg
+            50 319.89 Td
+            (Instagram JSON format me data bhejta hai.) Tj
+            ET
+            
+        BT
+        /F2 11 Tf
+        0.12 0.16 0.23 rg
+        50 293.89 Td
+        (2.2 Personal vs Professional Account) Tj
+        ET
+        
+            BT
+            /F1 9.5 Tf
+            0.15 0.2 0.28 rg
+            50 276.89 Td
+            (- Personal Account: Normal users ke liye hota hai. Meta ispe Graph API access) Tj
+            ET
+            
+            BT
+            /F1 9.5 Tf
+            0.15 0.2 0.28 rg
+            62 263.89 Td
+            (nahi deta.) Tj
+            ET
+            
+            BT
+            /F1 9.5 Tf
+            0.15 0.2 0.28 rg
+            50 246.89 Td
+            (- Professional / Business Account: Businesses ke liye hota hai. Yeh Instagram) Tj
+            ET
+            
+            BT
+            /F1 9.5 Tf
+            0.15 0.2 0.28 rg
+            62 233.89 Td
+            (app me 1 minute me free switch ho jata hai aur ispe Meta full Graph API access) Tj
+            ET
+            
+            BT
+            /F1 9.5 Tf
+            0.15 0.2 0.28 rg
+            62 220.89 Td
+            (deta hai.) Tj
+            ET
+            
+            BT
+            /F1 9.5 Tf
+            0.15 0.2 0.28 rg
+            50 203.89 Td
+            (- Facebook Page Linking: Instagram Business account ka ek Facebook Page se link) Tj
+            ET
+            
+            BT
+            /F1 9.5 Tf
+            0.15 0.2 0.28 rg
+            62 190.89 Td
+            (hona zaroori hota hai taaki Graph API token generate ho sake.) Tj
+            ET
+            
+        BT
+        /F2 11 Tf
+        0.12 0.16 0.23 rg
+        50 166.89 Td
+        (2.3 Access Token & Auto-Refresh) Tj
+        ET
+        
+            BT
+            /F1 9.5 Tf
+            0.15 0.2 0.28 rg
+            50 149.89 Td
+            (Access Token ek Digital Password ki tarah hota hai. Short-lived token 1-2 ghante) Tj
+            ET
+            
+            BT
+            /F1 9.5 Tf
+            0.15 0.2 0.28 rg
+            50 136.89 Td
+            (ka hota hai, jabki Long-lived token 60 Din tak valid rehta hai.) Tj
+            ET
+            
+            BT
+            /F1 9.5 Tf
+            0.15 0.2 0.28 rg
+            50 117.88999999999999 Td
+            (Meta ek official refresh API deta hai:) Tj
+            ET
+            
+            BT
+            /F1 9.5 Tf
+            0.15 0.2 0.28 rg
+            50 104.88999999999999 Td
+            (https://graph.instagram.com/refresh_access_token. Hamara backend har 30-45 din me) Tj
+            ET
+            
+            BT
+            /F1 9.5 Tf
+            0.15 0.2 0.28 rg
+            50 91.88999999999999 Td
+            (is token ko background me automatically renew kar deta hai, isliye yeh token) Tj
+            ET
+            
+            BT
+            /F1 9.5 Tf
+            0.15 0.2 0.28 rg
+            50 78.88999999999999 Td
+            (Lifetime Unlimited chalta rehta hai jab tak user password change na kare.) Tj
+            ET
+            
+        0.8 0.8 0.8 RG
+        0.5 w
+        50 40 m
+        545.28 40 l
+        S
+        BT
+        /F1 8 Tf
+        0.5 0.5 0.5 rg
+        50 28 Td
+        (Confidential - 100% Free Lifetime Architecture) Tj
+        ET
+        BT
+        /F1 8 Tf
+        0.5 0.5 0.5 rg
+        485.28 28 Td
+        (Page 1 of 3) Tj
+        ET
+        
+endstream
+endobj
+5 0 obj
+<<
+                /Type /Page
+                /Parent 2 0 R
+                /MediaBox [0 0 595.28 841.89]
+                /Contents 6 0 R
+                /Resources <<
+                    /Font <<
+                        /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+                        /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+                        /F3 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding >>
+                        /F4 << /Type /Font /Subtype /Type1 /BaseFont /Courier /Encoding /WinAnsiEncoding >>
+                    >>
+                >>
+            >>
+endobj
+6 0 obj
+<< /Length 8339 >>
+stream
+
+        0.6 0.6 0.6 RG
+        0.5 w
+        50 806.89 m
+        545.28 806.89 l
+        S
+        BT
+        /F1 8 Tf
+        0.5 0.5 0.5 rg
+        50 811.89 Td
+        (InstaSync Hub - Complete Theory & Architecture Guide) Tj
+        ET
+        
+        0.9 0.2 0.4 RG
+        2 w
+        50 761.89 m
+        545.28 761.89 l
+        S
+        BT
+        /F2 13 Tf
+        0.06 0.09 0.16 rg
+        50 767.89 Td
+        (CHAPTER 3: MEDIA STORAGE ENGINE \(CDN EXPIRY PROBLEM\)) Tj
+        ET
+        
+        BT
+        /F2 11 Tf
+        0.12 0.16 0.23 rg
+        50 734.89 Td
+        (3.1 Instagram CDN Links 3 Din Me Expire Kyu Hote Hain?) Tj
+        ET
+        
+            BT
+            /F1 9.5 Tf
+            0.15 0.2 0.28 rg
+            50 717.89 Td
+            (Instagram ke photos aur videos ka link Meta ke servers \(fbcdn.net\) se aata hai.) Tj
+            ET
+            
+            BT
+            /F1 9.5 Tf
+            0.15 0.2 0.28 rg
+            50 704.89 Td
+            (Meta ki strict security policy hai ki yeh image links 3 din \(72 ghante\) baad) Tj
+            ET
+            
+            BT
+            /F1 9.5 Tf
+            0.15 0.2 0.28 rg
+            50 691.89 Td
+            (expire ho jate hain.) Tj
+            ET
+            
+            BT
+            /F1 9.5 Tf
+            0.15 0.2 0.28 rg
+            50 672.89 Td
+            (Agar hum Instagram ka direct link website par lagate, toh 3 din baad client ki) Tj
+            ET
+            
+            BT
+            /F1 9.5 Tf
+            0.15 0.2 0.28 rg
+            50 659.89 Td
+            (website par saari photos gayab ho jati aur broken image ka icon aa jata.) Tj
+            ET
+            
+        BT
+        /F2 11 Tf
+        0.12 0.16 0.23 rg
+        50 633.89 Td
+        (3.2 Hamara Permanent Local Storage Solution) Tj
+        ET
+        
+            BT
+            /F1 9.5 Tf
+            0.15 0.2 0.28 rg
+            50 616.89 Td
+            (- Streaming Download: Jab bhi naya post detect hota hai, backend photo \(.jpg\) ya) Tj
+            ET
+            
+            BT
+            /F1 9.5 Tf
+            0.15 0.2 0.28 rg
+            62 603.89 Td
+            (video reel \(.mp4\) ko turant server ki hard drive \(backend/media/\) par download) Tj
+            ET
+            
+            BT
+            /F1 9.5 Tf
+            0.15 0.2 0.28 rg
+            62 590.89 Td
+            (kar leta hai.) Tj
+            ET
+            
+            BT
+            /F1 9.5 Tf
+            0.15 0.2 0.28 rg
+            50 573.89 Td
+            (- Local URL Mapping: Database me Instagram ke expiring link ki jagah local path) Tj
+            ET
+            
+            BT
+            /F1 9.5 Tf
+            0.15 0.2 0.28 rg
+            62 560.89 Td
+            (\(jaise /media/18102065894198422.jpg\) save ho jata hai.) Tj
+            ET
+            
+            BT
+            /F1 9.5 Tf
+            0.15 0.2 0.28 rg
+            50 543.89 Td
+            (- Lifetime Validity: Client ki website hamare local server se media load karti) Tj
+            ET
+            
+            BT
+            /F1 9.5 Tf
+            0.15 0.2 0.28 rg
+            62 530.89 Td
+            (hai, isliye photos hamesha ke liye safe rehti hain.) Tj
+            ET
+            
+        0.9 0.2 0.4 RG
+        2 w
+        50 493.89 m
+        545.28 493.89 l
+        S
+        BT
+        /F2 13 Tf
+        0.06 0.09 0.16 rg
+        50 499.89 Td
+        (CHAPTER 4: REAL-TIME AUTO SYNC ENGINE) Tj
+        ET
+        
+        BT
+        /F2 11 Tf
+        0.12 0.16 0.23 rg
+        50 466.89 Td
+        (4.1 Bina Refresh Ke Live Kaise Aata Hai?) Tj
+        ET
+        
+            BT
+            /F1 9.5 Tf
+            0.15 0.2 0.28 rg
+            50 449.89 Td
+            (FastAPI server ke andar ek asynchronous background task \(periodic_instagram_sync\)) Tj
+            ET
+            
+            BT
+            /F1 9.5 Tf
+            0.15 0.2 0.28 rg
+            50 436.89 Td
+            (chalta hai jo har 15 second me Meta Graph API se latest media IDs check karta hai.) Tj
+            ET
+            
+        BT
+        /F2 11 Tf
+        0.12 0.16 0.23 rg
+        50 410.89 Td
+        (4.2 Automatic Add & Delete Logic) Tj
+        ET
+        
+            BT
+            /F1 9.5 Tf
+            0.15 0.2 0.28 rg
+            50 393.89 Td
+            (- Auto Add: Naya post milne par photo download hoti hai aur database me save ho) Tj
+            ET
+            
+            BT
+            /F1 9.5 Tf
+            0.15 0.2 0.28 rg
+            62 380.89 Td
+            (jati hai.) Tj
+            ET
+            
+            BT
+            /F1 9.5 Tf
+            0.15 0.2 0.28 rg
+            50 363.89 Td
+            (- Auto Delete: Agar client ne Instagram se post delete kiya, toh backend local) Tj
+            ET
+            
+            BT
+            /F1 9.5 Tf
+            0.15 0.2 0.28 rg
+            62 350.89 Td
+            (database se bhi use delete kar deta hai: DELETE FROM instagram_posts WHERE) Tj
+            ET
+            
+            BT
+            /F1 9.5 Tf
+            0.15 0.2 0.28 rg
+            62 337.89 Td
+            (ig_media_id NOT IN \(...\).) Tj
+            ET
+            
+            BT
+            /F1 9.5 Tf
+            0.15 0.2 0.28 rg
+            50 320.89 Td
+            (- SSE Signal \(Server-Sent Events\): Post add ya delete hote hi server browser ko) Tj
+            ET
+            
+            BT
+            /F1 9.5 Tf
+            0.15 0.2 0.28 rg
+            62 307.89 Td
+            (sync_completed ka signal bhejta hai. Browser ka widget bina page reload kiye) Tj
+            ET
+            
+            BT
+            /F1 9.5 Tf
+            0.15 0.2 0.28 rg
+            62 294.89 Td
+            (screen par post ko smoothly update kar deta hai.) Tj
+            ET
+            
+        0.9 0.2 0.4 RG
+        2 w
+        50 257.89 m
+        545.28 257.89 l
+        S
+        BT
+        /F2 13 Tf
+        0.06 0.09 0.16 rg
+        50 263.89 Td
+        (CHAPTER 5: DATABASE ARCHITECTURE \(SQLITE WAL MODE\)) Tj
+        ET
+        
+        BT
+        /F2 11 Tf
+        0.12 0.16 0.23 rg
+        50 230.89 Td
+        (5.1 SQLite Kyu Chuna?) Tj
+        ET
+        
+            BT
+            /F1 9.5 Tf
+            0.15 0.2 0.28 rg
+            50 213.89 Td
+            (SQLite ek Single-File Database \(insta_hub.db\) hai. Iske liye koi alag MySQL server) Tj
+            ET
+            
+            BT
+            /F1 9.5 Tf
+            0.15 0.2 0.28 rg
+            50 200.89 Td
+            (install nahi karna padta. Poora database ek hi file me hota hai, isliye yeh super) Tj
+            ET
+            
+            BT
+            /F1 9.5 Tf
+            0.15 0.2 0.28 rg
+            50 187.89 Td
+            (portable aur ultra-fast hai \(response time under 5ms\).) Tj
+            ET
+            
+        BT
+        /F2 11 Tf
+        0.12 0.16 0.23 rg
+        50 161.89 Td
+        (5.2 WAL Mode \(Write-Ahead Logging\)) Tj
+        ET
+        
+            BT
+            /F1 9.5 Tf
+            0.15 0.2 0.28 rg
+            50 144.89 Td
+            (Normal SQLite me ek time par ek process likh sakta hai aur doosra wait karta hai) Tj
+            ET
+            
+            BT
+            /F1 9.5 Tf
+            0.15 0.2 0.28 rg
+            50 131.89 Td
+            (\(Database Lock\). Humne database me WAL mode enable kiya hai \(PRAGMA) Tj
+            ET
+            
+            BT
+            /F1 9.5 Tf
+            0.15 0.2 0.28 rg
+            50 118.88999999999999 Td
+            (journal_mode=WAL; PRAGMA busy_timeout=30000;\). Isse background sync naye posts) Tj
+            ET
+            
+            BT
+            /F1 9.5 Tf
+            0.15 0.2 0.28 rg
+            50 105.88999999999999 Td
+            (likhta rehta hai aur hazaron visitors bina kisi rukawat ke website par feed dekhte) Tj
+            ET
+            
+            BT
+            /F1 9.5 Tf
+            0.15 0.2 0.28 rg
+            50 92.88999999999999 Td
+            (rehte hain.) Tj
+            ET
+            
+        0.8 0.8 0.8 RG
+        0.5 w
+        50 40 m
+        545.28 40 l
+        S
+        BT
+        /F1 8 Tf
+        0.5 0.5 0.5 rg
+        50 28 Td
+        (Confidential - 100% Free Lifetime Architecture) Tj
+        ET
+        BT
+        /F1 8 Tf
+        0.5 0.5 0.5 rg
+        485.28 28 Td
+        (Page 2 of 3) Tj
+        ET
+        
+endstream
+endobj
+7 0 obj
+<<
+                /Type /Page
+                /Parent 2 0 R
+                /MediaBox [0 0 595.28 841.89]
+                /Contents 8 0 R
+                /Resources <<
+                    /Font <<
+                        /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+                        /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+                        /F3 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding >>
+                        /F4 << /Type /Font /Subtype /Type1 /BaseFont /Courier /Encoding /WinAnsiEncoding >>
+                    >>
+                >>
+            >>
+endobj
+8 0 obj
+<< /Length 8155 >>
+stream
+
+        0.6 0.6 0.6 RG
+        0.5 w
+        50 806.89 m
+        545.28 806.89 l
+        S
+        BT
+        /F1 8 Tf
+        0.5 0.5 0.5 rg
+        50 811.89 Td
+        (InstaSync Hub - Complete Theory & Architecture Guide) Tj
+        ET
+        
+        0.9 0.2 0.4 RG
+        2 w
+        50 761.89 m
+        545.28 761.89 l
+        S
+        BT
+        /F2 13 Tf
+        0.06 0.09 0.16 rg
+        50 767.89 Td
+        (CHAPTER 6: UNIVERSAL FRONTEND WIDGET EMBEDDING) Tj
+        ET
+        
+        BT
+        /F2 11 Tf
+        0.12 0.16 0.23 rg
+        50 734.89 Td
+        (6.1 Lightweight Script vs iFrame) Tj
+        ET
+        
+            BT
+            /F1 9.5 Tf
+            0.15 0.2 0.28 rg
+            50 717.89 Td
+            (Puraane zamane ke widgets iFrame me chalte the jo mobile par slow hote hain.) Tj
+            ET
+            
+            BT
+            /F1 9.5 Tf
+            0.15 0.2 0.28 rg
+            50 704.89 Td
+            (Hamara widget Pure Vanilla JS aur Vanilla CSS me bana hai \(Size sirf 8 KB\). Isme) Tj
+            ET
+            
+            BT
+            /F1 9.5 Tf
+            0.15 0.2 0.28 rg
+            50 691.89 Td
+            (zero external dependencies hain \(no React, no jQuery\).) Tj
+            ET
+            
+        BT
+        /F2 11 Tf
+        0.12 0.16 0.23 rg
+        50 665.89 Td
+        (6.2 Authentic 3-Column Card Layout) Tj
+        ET
+        
+            BT
+            /F1 9.5 Tf
+            0.15 0.2 0.28 rg
+            50 648.89 Td
+            (Card ka design authentic Instagram embed format me hai: Profile Avatar, Username,) Tj
+            ET
+            
+            BT
+            /F1 9.5 Tf
+            0.15 0.2 0.28 rg
+            50 635.89 Td
+            (View Profile button, 1:1 Square Media, View More on Instagram link, Action Icons) Tj
+            ET
+            
+            BT
+            /F1 9.5 Tf
+            0.15 0.2 0.28 rg
+            50 622.89 Td
+            (\(Heart, Comment, Share, Save\), Real Likes count, aur caption toggle.) Tj
+            ET
+            
+        0.9 0.2 0.4 RG
+        2 w
+        50 583.89 m
+        545.28 583.89 l
+        S
+        BT
+        /F2 13 Tf
+        0.06 0.09 0.16 rg
+        50 589.89 Td
+        (CHAPTER 7: CLIENT ONBOARDING SOP \(STEP-BY-STEP\)) Tj
+        ET
+        
+        BT
+        /F2 11 Tf
+        0.12 0.16 0.23 rg
+        50 556.89 Td
+        (Jab Bhi Kisi Client Ka Order Aaye:) Tj
+        ET
+        
+            BT
+            /F1 9.5 Tf
+            0.15 0.2 0.28 rg
+            50 539.89 Td
+            (- Step 1: Client se confirm karein ki unka Instagram account) Tj
+            ET
+            
+            BT
+            /F1 9.5 Tf
+            0.15 0.2 0.28 rg
+            62 526.89 Td
+            (Professional/Business hai aur Facebook Page se link hai.) Tj
+            ET
+            
+            BT
+            /F1 9.5 Tf
+            0.15 0.2 0.28 rg
+            50 509.89 Td
+            (- Step 2: developers.facebook.com/tools/explorer par jakar client ka Facebook) Tj
+            ET
+            
+            BT
+            /F1 9.5 Tf
+            0.15 0.2 0.28 rg
+            62 496.89 Td
+            (Page select karke Long-Lived Token aur INSTAGRAM_ACCOUNT_ID generate karein.) Tj
+            ET
+            
+            BT
+            /F1 9.5 Tf
+            0.15 0.2 0.28 rg
+            50 479.89 Td
+            (- Step 3: Server ke backend/.env file me client ka ID aur Token paste karein.) Tj
+            ET
+            
+            BT
+            /F1 9.5 Tf
+            0.15 0.2 0.28 rg
+            50 462.89 Td
+            (- Step 4: Client ki website par Embed Code paste karein:) Tj
+            ET
+            
+        0.96 0.97 0.98 rg
+        50 259.89 495.28 196 re
+        f
+        0.85 0.88 0.92 RG
+        0.5 w
+        50 259.89 495.28 196 re
+        S
+        
+            BT
+            /F4 8.5 Tf
+            0.1 0.2 0.35 rg
+            60 441.89 Td
+            (<!-- Container -->) Tj
+            ET
+            
+            BT
+            /F4 8.5 Tf
+            0.1 0.2 0.35 rg
+            60 428.89 Td
+            (<div id="insta-feed-widget"></div>) Tj
+            ET
+            
+            BT
+            /F4 8.5 Tf
+            0.1 0.2 0.35 rg
+            60 415.89 Td
+            () Tj
+            ET
+            
+            BT
+            /F4 8.5 Tf
+            0.1 0.2 0.35 rg
+            60 402.89 Td
+            (<!-- CSS & JS -->) Tj
+            ET
+            
+            BT
+            /F4 8.5 Tf
+            0.1 0.2 0.35 rg
+            60 389.89 Td
+            (<link rel="stylesheet" href="https://your-server.com/widget/insta-feed.css">) Tj
+            ET
+            
+            BT
+            /F4 8.5 Tf
+            0.1 0.2 0.35 rg
+            60 376.89 Td
+            (<script src="https://your-server.com/widget/insta-feed.js"></script>) Tj
+            ET
+            
+            BT
+            /F4 8.5 Tf
+            0.1 0.2 0.35 rg
+            60 363.89 Td
+            (<script>) Tj
+            ET
+            
+            BT
+            /F4 8.5 Tf
+            0.1 0.2 0.35 rg
+            60 350.89 Td
+            (  document.addEventListener\('DOMContentLoaded', \(\) => {) Tj
+            ET
+            
+            BT
+            /F4 8.5 Tf
+            0.1 0.2 0.35 rg
+            60 337.89 Td
+            (    InstaHub.init\({) Tj
+            ET
+            
+            BT
+            /F4 8.5 Tf
+            0.1 0.2 0.35 rg
+            60 324.89 Td
+            (      container: '#insta-feed-widget',) Tj
+            ET
+            
+            BT
+            /F4 8.5 Tf
+            0.1 0.2 0.35 rg
+            60 311.89 Td
+            (      apiUrl: 'https://your-server.com') Tj
+            ET
+            
+            BT
+            /F4 8.5 Tf
+            0.1 0.2 0.35 rg
+            60 298.89 Td
+            (    }\);) Tj
+            ET
+            
+            BT
+            /F4 8.5 Tf
+            0.1 0.2 0.35 rg
+            60 285.89 Td
+            (  }\);) Tj
+            ET
+            
+            BT
+            /F4 8.5 Tf
+            0.1 0.2 0.35 rg
+            60 272.89 Td
+            (</script>) Tj
+            ET
+            
+        0.9 0.2 0.4 RG
+        2 w
+        50 219.89 m
+        545.28 219.89 l
+        S
+        BT
+        /F2 13 Tf
+        0.06 0.09 0.16 rg
+        50 225.89 Td
+        (CHAPTER 8: HOSTING & BUSINESS EARNING MODELS) Tj
+        ET
+        
+        BT
+        /F2 11 Tf
+        0.12 0.16 0.23 rg
+        50 192.89 Td
+        (8.1 Self-Hosted Model \(Client ke Server par\)) Tj
+        ET
+        
+            BT
+            /F1 9.5 Tf
+            0.15 0.2 0.28 rg
+            50 175.89 Td
+            (Client ke hi hosting ya VPS par backend daal dein. Client se One-Time Setup Fee) Tj
+            ET
+            
+            BT
+            /F1 9.5 Tf
+            0.15 0.2 0.28 rg
+            50 162.89 Td
+            (lein \(jaise Rs.3,000 se Rs.8,000\). Aapka recurring kharcha zero rahega.) Tj
+            ET
+            
+        BT
+        /F2 11 Tf
+        0.12 0.16 0.23 rg
+        50 136.89 Td
+        (8.2 Agency SaaS Model \(Central Cloud Server par\)) Tj
+        ET
+        
+            BT
+            /F1 9.5 Tf
+            0.15 0.2 0.28 rg
+            50 119.88999999999999 Td
+            (Ek saste cloud server \(jaise Render ya $4/mo DigitalOcean\) par apna backend) Tj
+            ET
+            
+            BT
+            /F1 9.5 Tf
+            0.15 0.2 0.28 rg
+            50 106.88999999999999 Td
+            (chalayein aur sabhi clients ko API link dein. Client se Monthly ya Yearly) Tj
+            ET
+            
+            BT
+            /F1 9.5 Tf
+            0.15 0.2 0.28 rg
+            50 93.88999999999999 Td
+            (Recurring Subscription lein \(jaise Rs.499/month ya Rs.3,500/year per client\).) Tj
+            ET
+            
+        0.8 0.8 0.8 RG
+        0.5 w
+        50 40 m
+        545.28 40 l
+        S
+        BT
+        /F1 8 Tf
+        0.5 0.5 0.5 rg
+        50 28 Td
+        (Confidential - 100% Free Lifetime Architecture) Tj
+        ET
+        BT
+        /F1 8 Tf
+        0.5 0.5 0.5 rg
+        485.28 28 Td
+        (Page 3 of 3) Tj
+        ET
+        
+endstream
+endobj
+xref
+0 9
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000127 00000 n 
+0000000848 00000 n 
+0000009385 00000 n 
+0000010106 00000 n 
+0000018497 00000 n 
+0000019218 00000 n 
+trailer
+<<
+  /Size 9
+  /Root 1 0 R
+>>
+startxref
+27425
+%%EOF
